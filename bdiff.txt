@@ -1,2 +1,7 @@
 branch difference
+<<<<<<< HEAD
 ok fix the conflict
+=======
+branch frisa
+branch frisa still alive and changes again
+>>>>>>> frisa
