@@ -1,11 +1,2 @@
 branch difference
-<<<<<<< HEAD
-ok fix the conflict
-=======
-branch frisa
-<<<<<<< HEAD
-branch frisa still alive and changes again and again
-=======
-branch frisa still alive and changes again
->>>>>>> frisa
->>>>>>> master
+turn off the fast forward test
